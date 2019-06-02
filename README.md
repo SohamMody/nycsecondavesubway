@@ -1,4 +1,4 @@
-# Impact Assessment after opening of 2nd Avenue Subway in NYC on taxis
+# Impact Assessment of opening of 2nd Avenue Subway in NYC on taxis
 
 This is an updated version of the work we did for the [December 2018 Hackathon at CUSP](https://github.com/CUSPhack/December2018Hacks). This project has been done by Max Brueckner-Humphreys, Devashish Khulbe, Pablo Mandiola and Soham Mody.
 
